@@ -1,0 +1,809 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-20T10:27:09.424",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "user",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-20T10:36:43.757",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "user1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-20T10:37:57.642",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "user1",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-20T11:33:48.170",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-20T11:35:30.765",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-20T11:38:55.635",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Movie object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-20T11:45:32.890",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Movie object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-23T16:34:00.227",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Movie object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-23T16:37:12.692",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Movie object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-09-23T17:49:19.038",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Movie object (4)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u7535\\u5f71\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-23T17:50:31.815",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u7535\\u5f71\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-25T17:54:41.662",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Book object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-09-25T17:54:47.257",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Book object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-09-25T17:56:30.894",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Book object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-09-25T17:57:52.684",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Book object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-09-25T17:59:46.365",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Book object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-09-27T11:31:19.055",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "111",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-09-27T11:31:30.719",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "111",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add 电影",
+    "content_type": 7,
+    "codename": "add_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change 电影",
+    "content_type": 7,
+    "codename": "change_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete 电影",
+    "content_type": 7,
+    "codename": "delete_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view 电影",
+    "content_type": 7,
+    "codename": "view_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add 读书",
+    "content_type": 8,
+    "codename": "add_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change 读书",
+    "content_type": 8,
+    "codename": "change_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete 读书",
+    "content_type": 8,
+    "codename": "delete_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view 读书",
+    "content_type": 8,
+    "codename": "view_book"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$k7g2RxY9hMPTD5avENi229$FxOZOI2pBsPZFyoYr9MnnIuhmY5sxjJw0RBlxxUv+Xo=",
+    "last_login": "2024-09-30T17:44:43.348",
+    "is_superuser": true,
+    "username": "yw",
+    "first_name": "",
+    "last_name": "",
+    "email": "2997084707@qq.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-14T17:59:21.592",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$Ql9qA2emdamoR9OuUUm2rb$2JCbsEDd1QKMTHUo98EozBpgTMIessPe8sceeCA0Bwo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-09-20T10:27:09.094",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$sx93N4RaJhqOoxF4Ji83wl$g1Jdtnw4jdqY6T3Hf4uBZn+/5ZGpTH5KCJu7ov6z/kU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user1",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-09-20T10:36:00",
+    "groups": [],
+    "user_permissions": [
+      9,
+      10,
+      11,
+      12,
+      5,
+      6,
+      7,
+      8,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "movie",
+    "model": "movie"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "book",
+    "model": "book"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "83r0nlbv9wnidioyspgwd5iqttllmcf0",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1sujKA:xvYi7S65Fz51IElGZw7mGG-lFX8Pjk78bFC2ipTaPl8",
+    "expire_date": "2024-10-13T10:06:14.427"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "czjisxwsvmr5v119ofk5cx3oszwhpj3z",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1sseTB:CoD3jyprgIkU_uj1epGV5zBRZVXTmzMOSswCFxrU3VY",
+    "expire_date": "2024-10-07T16:30:57.754"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fx7f1m010g4pnl3hjv8h60mjwldn40q4",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1stOH0:bPkT0puoEe46k9p3OsFKfAw8XJSUFan2PagDdrSrk5I",
+    "expire_date": "2024-10-09T17:25:26.760"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kpdiucadzqwjycikonc4wkovjoce5fk4",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1srTKx:qaDvGMCB55XAfgPrj8axwEgwPjQKTG0OnLPHAU7f0oo",
+    "expire_date": "2024-10-04T10:25:35.347"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "o8kc777vyqpzzz5xe4dqct45z0sl09hq",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1spPZD:yDkv52hsyrrJ9ywYUZoXst5zXjZbn8-z1Yy9_hnK1vE",
+    "expire_date": "2024-09-28T17:59:47.300"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wdwp9zmqiz979amcv1gycki6ir393jno",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1su1WS:BTK4gzOtfIbxU_N1tCCOyVTCPSEV8p59zuNKCFX8aSE",
+    "expire_date": "2024-10-11T11:20:00.269"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yfp3i6wukbze0dh470r13gfzxq9nqh8b",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQRO_iGlnrb7yU9JzBWv9wADlSnFSIu4OlFKDp5r2ZF_O0b9XvPa9-TuzMBDv9doHiI7cB0p3abeFxads6Bz4UftDOr0vKz8vh_h1U6nWsi0CyOQhEaxCSVpPUFmWBCM5JkAoMleBkCmiVAWG-IZFAoio6Tuz9AbpLNnk:1svCxP:HKRSYcC3bLOrez9ru_AJHBcYI2AhZfLWSJmKsZkQVfs",
+    "expire_date": "2024-10-14T17:44:43.348"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 1,
+  "fields": {
+    "title": "姥姥的外孙 หลานม่า (2024)",
+    "description": "出身泰国华人家庭的无业年轻人阿安（马群耀 饰）看到堂妹因照顾病重的爷爷而继承房产后，也对身患绝症的姥姥（乌萨·萨梅坎姆 饰）动了心思，计划复刻堂妹的“致富之路”获取百万遗产。但面对同样“努力”的舅舅们和挑剔毒舌的姥姥，阿安这条争当全职孝孙的“啃姥致富”之路似乎没有他预想的那么顺利……",
+    "image": "movie/images/3.webp",
+    "url": "https://movie.douban.com/subject/36328210/?tag=%E7%83%AD%E9%97%A8&from=gaia"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 2,
+  "fields": {
+    "title": "里斯本丸沉没 (2023)",
+    "description": "这是一部东方的“敦刻尔克”，是一部关于纪念中国渔民伟大壮举的纪录片电影。电影人方励和摄制组通过详尽的历史调查，极尽所能地寻访英、美、日、中核心当事人及后代，试图无限接近中国舟山东极岛附近海底30米处的二战“死亡之船”——“里斯本丸”的沉船真相。",
+    "image": "movie/images/p2912588024.webp",
+    "url": "https://movie.douban.com/subject/30412658/?from=playing_poster"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 3,
+  "fields": {
+    "title": "我们最后一次做孩子 L'Ultima Volta Che Siamo Stati Bambini (2023)",
+    "description": "1943年的意大利罗马，四个来自不同家庭背景的小孩在战火纷飞中玩着战争游戏并结成了“史上最伟大的友谊”。10月某日，来自富裕犹太家庭的里卡尔多被德军带去了犹太人隔离区，剩余的三个好友通过伊塔洛担任国家法西斯党干部的父亲的关系得知了他的所在，决心穿越意大利“英雄救友”。本片改编自同名畅销反战小说，通过儿童冒险喜剧的形式和孩子们的天真视角展现了二战对意大利这个国家及其人民的摧残，在全球冲突肆虐的当下更具现实意义，发人深思。",
+    "image": "movie/images/p2899254712.webp",
+    "url": "https://movie.douban.com/subject/35973112/?tag=%E7%83%AD%E9%97%A8&from=gaia"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 4,
+  "fields": {
+    "title": "出走的决心 (2024)",
+    "description": "影片根据50岁阿姨自驾游真人故事改编。\r\n　　天真浪漫的李红（咏梅 饰）一生有过许多梦想，18岁时憧憬大学，25岁时憧憬爱情，45岁时憧憬远游……但为了那些“对别人来说更重要”的事，她只能一等再等，也一再错过。50岁，她决心不再等待，活出不一样的人生！",
+    "image": "movie/images/10.webp",
+    "url": "https://movie.douban.com/subject/36587974/?from=showing"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 5,
+  "fields": {
+    "title": "狗阵 (2024)",
+    "description": "十余年前的西北小镇，刚出狱的二郎（彭于晏 饰）重归故土，面对偏见，面对防备，他不知该如何开启新生活。迫于生计加入打狗队后，二郎拯救了一只流浪黑狗，他也在和黑狗的相处中获得了再次上路的勇气。生命在暗处的绽放更凶猛有力，一人一狗在互相救赎中，拥抱着彼此的新生。",
+    "image": "movie/images/2.webp",
+    "url": "https://movie.douban.com/subject/35242872/?tag=%E7%83%AD%E9%97%A8&from=gaia_video"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 1,
+  "fields": {
+    "title": "失控的照护",
+    "description": "站在被告席上的“他”，前后共计杀害四十三人。发生于“二战”后的连环杀人案中，此案死亡人数最多。被害者几乎都是老人。在这场审判中，“他”对犯罪事实供认不讳，判决结果除死刑外别无可能。一切都在计划之中。“他”露出了微笑。被害人家属羽田洋子，在旁听席抬头看向“他”。母亲被“他”杀害了，但时至今日，洋子心里再也涌不起对“他”的愤怒和憎恨。“他”被判处死刑的消息传到了检察官大友秀树耳中。“他”应该不会上诉。一切都在“他”的计划之中。不光是杀人。罪行暴露，还有法庭审判，甚至死刑，这些都是。只是待大友意识到一",
+    "image": "book/images/s34930383.jpg",
+    "url": "https://book.douban.com/subject/36962267/?icn=index-latestbook-subject"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 2,
+  "fields": {
+    "title": "吼猴、驴子与梨",
+    "description": "关于大屠杀的书稿被拒后，作家亨利收到一封神秘来信，地址把他引入一个标本店。标本师和他同名，嶙峋枯槁，技艺高超，但情感封闭、沉默寡言，数十年都在写同一部剧本，主人公是名为“维吉尔”的吼猴和名为“碧翠丝”的驴。“维吉尔与碧翠丝--带领我穿越地狱的向导。”标本师这样称呼。\r\n剧本抽丝剥茧地展开，动物们在生死悬崖边缘徘徊，日夜对话，间或沉默。亨利被它们的命运所牵动，现实中发生的事也让他忧心忡忡--一向温驯的狗抑郁不安，最终发病把宠物猫咬死。“诺沃利普基大街68号”“‘恐怖们’的手势”……剧本中的词汇像谜",
+    "image": "book/images/s34957441.jpg",
+    "url": "https://book.douban.com/subject/36832312/?icn=index-latestbook-subject"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 3,
+  "fields": {
+    "title": "河流之齿",
+    "description": "这个世界好像做好了十全的准备,随时等待迎接一个崩溃的人。\r\n年轻的家庭主妇姚蔓意外痛失爱女，平静的生活由此被打破，当希望和力量不再，姚蔓也渐渐失去了活下去的勇气。崩溃之际，那个年少时消失的好友李远期突然“归来”，将姚蔓拉出“旋涡”，一步步去溯寻真相。\r\n一切都像河流的暗涌，掩盖在平静的水面之下……\r\n她们被现实的“洪流”冲击消散，又重新在其中联合与凝聚。",
+    "image": "book/images/s34948746.jpg",
+    "url": "https://book.douban.com/subject/36980164/?icn=index-latestbook-subject"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 4,
+  "fields": {
+    "title": "明日战场上想起我",
+    "description": "谁能料到有天一个女人会在我怀里死去，而这甚至是我第一次拥她入怀。她死在凌晨三点，丈夫远在伦敦，两岁的孩子则在几步之隔的另一间卧室安睡。\r\n现在想来，我越来越觉得她是个从未活过的人，她死了这么久，甚至比她活着时我们相识的时间还要长，虽然那时我曾见过她，和她说过话，还亲吻过她：对我来说，她只活了三天，我在那三天中的几个小时里曾见证过她的呼吸。尽管如此，一切也可能不是真的：所有逝去的生命都比那变化无常、仍活着的生命更为长久。\r\n无法拯救，无可挽回。所有的一切都奔向自身的消亡，所有的兴奋或痛苦都只能持续",
+    "image": "book/images/s34925853.jpg",
+    "url": "https://book.douban.com/subject/36923580/?icn=index-latestbook-subject"
+  }
+}
+]
